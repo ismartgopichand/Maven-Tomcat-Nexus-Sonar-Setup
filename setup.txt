@@ -88,3 +88,13 @@ cd /opt/sonarqube/bin/linux-x86-64/
 
 Port : 9000
 Login to SonarQube  with default administrator username and password is admin.
+after complete nexus and sonar using this commands
+cd/
+cd opt
+git clore copies using urld
+ls
+cd file name copy
+mvn validate
+mvn compile
+mvn test
+mnv package
